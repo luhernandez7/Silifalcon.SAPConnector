@@ -1,0 +1,6 @@
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\bin\x64\Debug\Silifalcon.SAPConnector.Extensions.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\bin\x64\Debug\Silifalcon.SAPConnector.Extensions.pdb
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\obj\x64\Debug\Silifalcon.SAPConnector.Extensions.csproj.AssemblyReference.cache
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\obj\x64\Debug\Silifalcon.SAPConnector.Extensions.csproj.CoreCompileInputs.cache
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\obj\x64\Debug\Silifalcon.SAPConnector.Extensions.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Extensions\obj\x64\Debug\Silifalcon.SAPConnector.Extensions.pdb

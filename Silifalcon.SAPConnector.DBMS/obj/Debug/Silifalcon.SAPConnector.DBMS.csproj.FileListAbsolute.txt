@@ -1,0 +1,13 @@
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.DBMS.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.DBMS.pdb
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\log4net.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.Exceptions.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.Exceptions.pdb
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\Silifalcon.SAPConnector.pdb
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\bin\Debug\log4net.xml
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\obj\Debug\Silifalcon.SAPConnector.DBMS.csproj.AssemblyReference.cache
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\obj\Debug\Silifalcon.SAPConnector.DBMS.csproj.CoreCompileInputs.cache
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\obj\Debug\Silifalcon.SAPConnector.DBMS.csproj.CopyComplete
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\obj\Debug\Silifalcon.SAPConnector.DBMS.dll
+C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.DBMS\obj\Debug\Silifalcon.SAPConnector.DBMS.pdb
