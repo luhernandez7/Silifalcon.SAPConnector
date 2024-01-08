@@ -5,6 +5,7 @@ C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debu
 C:\Proyectos\Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debug\Silifalcon.SAPConnector.Exceptions.pdb
 C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\bin\Debug\Silifalcon.SAPConnector.Exceptions.dll
 C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\bin\Debug\Silifalcon.SAPConnector.Exceptions.pdb
+C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debug\Silifalcon.SAPConnector.Exceptions.csproj.AssemblyReference.cache
 C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debug\Silifalcon.SAPConnector.Exceptions.csproj.CoreCompileInputs.cache
 C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debug\Silifalcon.SAPConnector.Exceptions.dll
 C:\Proyectos\AVS_Silifalcon.SAPConnector\Silifalcon.SAPConnector.Exceptions\obj\Debug\Silifalcon.SAPConnector.Exceptions.pdb
